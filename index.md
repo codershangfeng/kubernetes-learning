@@ -15,5 +15,5 @@
 
 
 
-[kubernetes源码学习 - 1]:(https://github.com/codershangfeng/kubernetes-learning/blob/main/source-code-learning-1.md)
-[kubernetes源码学习 - 2]:(https://github.com/codershangfeng/kubernetes-learning/blob/main/source-code-learning-2.md)
+[kubernetes源码学习 - 1]:(./source-code-learning-1.md)
+[kubernetes源码学习 - 2]:(./source-code-learning-2.md)
