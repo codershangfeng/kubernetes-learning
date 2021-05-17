@@ -9,13 +9,13 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - CONTRIBUTING.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-  - source-code-learning-1.md
-  - source-code-learning-2.md
+# include:
+#   - CONTRIBUTING.md
+#   - LICENSE.md
+#   - COPYING.md
+#   - CODE_OF_CONDUCT.md
+#   - CONTRIBUTING.md
+#   - ISSUE_TEMPLATE.md
+#   - PULL_REQUEST_TEMPLATE.md
+#   - source-code-learning-1.md
+#   - source-code-learning-2.md
