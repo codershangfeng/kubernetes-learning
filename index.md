@@ -2,7 +2,7 @@
 
 > 初识 - 环境搭建及结构熟悉
 
-[kubernetes源码学习 - 1](https://www.notion.so/kubernetes-1-0a02c13ea49f4715a639111a7f8b7d63)
+[kubernetes源码学习 - 1](https://github.com/codershangfeng/kubernetes-learning/blob/main/source-code-learning-1.md)
 
 > 谋面 - 核心数据模型
 
