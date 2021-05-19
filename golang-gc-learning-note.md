@@ -1,4 +1,4 @@
-# Golang GC学习摘要
+# Golang GC学习笔记
 
 # 标记清除（Mark-Sweep）
 
